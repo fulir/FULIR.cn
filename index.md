@@ -1,4 +1,4 @@
-## Welcome to Fulir.cn Node
+## 欢迎来到Fulir.cn节点
 
 You can use the [editor on GitHub](https://github.com/fulir/OneV-s-Dev/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
