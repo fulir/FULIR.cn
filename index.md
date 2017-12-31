@@ -17,6 +17,8 @@ The recent site is on record, can not be visited, beg to be excused.
 | 25320025339 | 注销主体 | 提交管局审核 | 通过 | 2018-01-01 14:00:58 | 自动审核处理：注销主体自动审核通过 : 主动申请注销 |
 |  | ~~首次备案~~ |   |   |  | ~~提交初审~~ |
 
+------------
+
 | :------------: 	ICP备案流程演示 	:------------: | 
 
 ![备案流程图](https://raw.githubusercontent.com/fulir/FULIR.cn/master/img/beianliucheng.png "备案流程图")
