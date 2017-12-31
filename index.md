@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/fulir/OneV-s-Dev/edit/mast
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 联络途径
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+邮箱：<a href="mailto:me@fulir.cn">me@fulir.cn</a>  /  微博：<a href="https://weibo.com">言值有理</a>
 
 ```markdown
 Syntax highlighted code block
