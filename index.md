@@ -6,8 +6,13 @@ The recent site is on record, can not be visited, beg to be excused.
 
 ### 联络途径
 
-邮箱：<a href="mailto:me@fulir.cn" target="_blank">me@fulir.cn</a>  •  微博：<a href="https://weibo.com/fulir" target="_blank">言值有理</a>
+邮箱：<a href="mailto:me@fulir.cn">me@fulir.cn</a>  •  微信公众号：福利儿（ifulir）
 
 ```markdown
 ```
-:clipboard: 2018-01-01 01:34:57 星期一
+📋 备案笔记
+
+| 订单号 | 备案类型 | 环节 | 审核结果 | 审核时间 | 审核意见 |
+| :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |
+| 25320025339 | 注销主体 | 提交管局审核 | 通过 | 2018-01-01 14:00:58 | 自动审核处理：注销主体自动审核通过 : 主动申请注销 |
+|  | ~~首次备案~~ |   |   |  | ~~提交初审~~ |
