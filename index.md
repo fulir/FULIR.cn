@@ -9,8 +9,5 @@
 邮箱：<a href="mailto:me@fulir.cn" target="_blank">me@fulir.cn</a>  •  微博：<a href="https://weibo.com/fulir" target="_blank">言值有理</a>
 
 ```markdown
-
-------------
-
 ```
 
