@@ -1,4 +1,4 @@
-## 欢迎来到Fulir.cn节点
+## \*近期站点正在进行备案，无法访问，敬请谅解。
 
 You can use the [editor on GitHub](https://github.com/fulir/OneV-s-Dev/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### 联络途径
 
-邮箱：<a href="mailto:me@fulir.cn">me@fulir.cn</a>  /  微博：<a href="https://weibo.com">言值有理</a>
+邮箱：<a href="mailto:me@fulir.cn" target="_blank">me@fulir.cn</a>  •  微博：<a href="https://weibo.com/fulir" target="_blank">言值有理</a>  •  微信：<a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzU0OTU2MTc3OQ==&scene=124#wechat_redirect" target="_blank">福利儿</a>
 
 ```markdown
 Syntax highlighted code block
